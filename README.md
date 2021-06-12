@@ -1,7 +1,7 @@
-# linear algebra
+# Linear algebra
 
 Simultaneous equations for Linus
 
-# TODO
+#### TODO
 
 Input number of problems
